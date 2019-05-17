@@ -1,0 +1,26 @@
+https://www.vagrantup.com/docs/installation/
+
+https://www.vagrantup.com/docs/cli/
+
+https://www.vagrantup.com/docs/share/
+
+https://www.vagrantup.com/docs/vagrantfile/
+
+https://www.vagrantup.com/docs/boxes.html
+
+https://www.vagrantup.com/docs/providers/
+
+https://www.vagrantup.com/docs/docker/basics.html
+
+Custom boxes: 
+
+https://www.vagrantup.com/docs/boxes/base.html
+
+Custom Plugin:
+
+https://www.vagrantup.com/docs/plugins/providers.html
+
+Packer
+
+https://www.packer.io/intro
+
